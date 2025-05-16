@@ -1,0 +1,5 @@
+train: /home/ngocanh/CE340-SeaDronesSee_Object_Detection_v2/val/images
+val: /home/ngocanh/CE340-SeaDronesSee_Object_Detection_v2/val/images
+
+nc: 5
+names: ['swimmer', 'boat', 'jetski', 'life_saving_appliances', 'buoy']
